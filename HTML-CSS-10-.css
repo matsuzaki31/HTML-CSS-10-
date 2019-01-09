@@ -20,6 +20,40 @@ header {
 	margin: 0 auto;
 	background-color: #EC715F;
 }
+
+ul {
+	list-style: none;
+}
+
+.list-item {
+	float: left;
+	padding: 27px 30px;
+	font-size: 16px;
+	color: #FAFAFA;
+}
+
 img {
 	height: 70px
+}
+
+.nagation {
+	float: right;
+}
+
+.headline {
+    height: 650px;
+    width: 100%;
+    background-image: url(img/mv.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.big-headline {
+font-size: 64px;
+color: #FAFAFA
+}
+
+.small-headline {
+font-size: 20px;
+color: #FAFAFA
 }
